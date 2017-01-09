@@ -1,2 +1,2 @@
-foo.c
-bar/baz.c
+#foo.c
+#bar/baz.c
